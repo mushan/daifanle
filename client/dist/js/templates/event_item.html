@@ -1,0 +1,17 @@
+<div class="food-image" style="background: url(<%=pic%>) center center no-repeat">
+    <div class="overlay-alpha"></div>
+    <div class="overlay">
+      <div class="left">
+        <div class="food"><%= foodname%></div>
+        <div class="date"><span><%= f_date%></span>&nbsp;<span><%= f_people_count%></span></div>
+        <div class="name"><%= name%></div>
+        <div class="desc"><%= f_desc%></div>
+        <div class="create_time"><%= f_create_time%></div>
+      </div>
+      <div class="right">
+        <div class="comment"><div class="icon"></div><div class="text"><%= comment_total%></div></div>
+        <div class="love"><div class="icon"></div><div class="text"><%= assist_total%></div></div>
+        <div class="type type<%= type%>"><%= f_type%></div>
+      </div>
+    </div>
+  </div>
