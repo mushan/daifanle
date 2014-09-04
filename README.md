@@ -1,13 +1,10 @@
-Daifanle 
-
-   a webapp for exchanging and sharing nice food for colleagues.
+This is  a webapp for exchanging and sharing nice food for colleagues.
    
-Compile And Run 
+Compiling And Running:
+    
+    the sever runs on node/mongo,requring some node-modules: express,sys,fs,colors,mongodb.
 
-   node/mongo 
-   
-      some node-modules:
-           express,sys,fs,colors,mongodb
+
            
 
 
