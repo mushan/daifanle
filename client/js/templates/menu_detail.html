@@ -1,0 +1,32 @@
+<header class="bar bar-nav">
+  <a class="icon icon-left-nav pull-left"></a>
+  <h1 class="title">菜谱详情</h1>
+</header>
+
+<div class="page-content">
+  <div class="menu-detail-image" style="background: url(<%=image%>) center center no-repeat">
+    <div class="right">
+      <div class="want">想吃</div>
+      <div class="give">请客</div>
+    </div>
+  </div>
+
+  <div class="menu-detail-food">
+    <div class="food"><%= name%></div>
+  </div>
+
+  <div class="light-split"></div>
+
+  <div class="menu-detail-staff">
+    <div style="font-size:0.8em;">用料</div>
+    <div class="desc"><%= main%></div>
+  </div>
+
+  <div class="light-split"></div>
+
+  <div class="menu-detail-usage">
+    <div style="font-size:0.8em;">做法</div>
+    <div class="desc"><%= method%></div>
+   </div>
+
+</div>
