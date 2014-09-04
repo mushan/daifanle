@@ -1,8 +1,8 @@
 Daifanle 
 
-   A webapp for exchanging and sharing nice food for colleagues.
+   a webapp for exchanging and sharing nice food for colleagues.
    
-Conpile And Run 
+Compile And Run 
 
    node/mongo 
    
