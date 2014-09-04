@@ -1,1 +1,0 @@
-define(["zepto","underscore","backbone","text!templates/second.html","utils/util","utils/pt"],function(e,t,n,r,i,s){var o=n.View.extend({template:t.template(r),events:{"click a":"back"},initialize:function(){},render:function(){return this.$el.html(this.template({})),this},back:function(){s.pop()}});return o});
