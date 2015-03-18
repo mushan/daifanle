@@ -1,4 +1,4 @@
-##This is  a webapp for exchanging and sharing nice food for colleagues.
+##For exchanging and sharing the delicious for colleagues.
    
 ###Compiling And Running:
     
