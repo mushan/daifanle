@@ -3,7 +3,7 @@
    
 Compiling And Running:
     
-   the server runs on node/mongo,requring some modules: express,sys,fs,colors,mongodb.`
+   the server runs on node/mongo,requring some modules: express,sys,fs,colors,mongodb.
 
 
            
