@@ -1,8 +1,8 @@
-##For exchanging and sharing the delicious for colleagues.
+#For exchanging and sharing the delicious for colleagues.
    
-###Compiling And Running:
+##Compiling And Running:
     
-   * the sever runs on node/mongo,requring some modules: express,sys,fs,colors,mongodb.
+    `the sever runs on node/mongo,requring some modules: express,sys,fs,colors,mongodb.`
 
 
            
